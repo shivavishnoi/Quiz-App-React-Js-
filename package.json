@@ -1,0 +1,20 @@
+{
+  "name": "quiz-app-react-js-",
+  "version": "1.0.0",
+  "description": "Creating quiz app with React Js , questions from opentdb api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivavishnoi/Quiz-App-React-Js-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivavishnoi/Quiz-App-React-Js-/issues"
+  },
+  "homepage": "https://github.com/shivavishnoi/Quiz-App-React-Js-#readme"
+}
